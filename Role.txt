@@ -18,4 +18,5 @@ A todos os membros do rpg, escolham cada um uma classe do seu interesse.
 *Classes —*
 *Mago:* pode controlar a energia vital de si mesmo para conjurar magia de fogo, gelo, água e outras variações.
 *Bárbaro:* possue força extrema com grande força física e com ataques poderosos vindo de sua arma branca.
+*ninja:* com a rapidez e também a agilidade de um gato, mate seus inimigos furtivamente.
 (End)
